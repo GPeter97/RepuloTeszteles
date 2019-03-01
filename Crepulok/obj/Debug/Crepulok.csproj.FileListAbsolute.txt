@@ -1,0 +1,2 @@
+C:\Users\grabe\source\repos\Crepulok\Crepulok\obj\Debug\Crepulok.csprojResolveAssemblyReference.cache
+C:\Users\grabe\source\repos\Crepulok\Crepulok\obj\Debug\Crepulok.csproj.CoreCompileInputs.cache
